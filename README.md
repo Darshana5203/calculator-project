@@ -6,8 +6,8 @@ Features
 Basic Operations: Addition, Subtraction, Multiplication, and Division.
 Responsive Design: The calculator layout adjusts to different screen sizes, making it usable on both desktop and mobile devices.
 User-Friendly Interface: Clean and simple design, making it easy to use for anyone.
-
 screenshot
+
 <img width="178" alt="image" src="https://github.com/user-attachments/assets/119b7005-2adc-4aae-90a1-c49e3b96b3df">
 
 Technologies Used
