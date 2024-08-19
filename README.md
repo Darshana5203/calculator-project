@@ -12,7 +12,8 @@ A simple calculator built using HTML and CSS. This project demonstrates basic we
 
 
 
-**Technologies Used** 🛠️  
+
+ **Technologies Used** 🛠️  
 - **HTML:** 📑 Structure of the calculator.  
 - **CSS:** 🎨 Styling of the calculator interface.
 
